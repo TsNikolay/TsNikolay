@@ -10,7 +10,7 @@
   <div>
     <h3>Contacts:</h3>
     <a href="https://t.me/Ts4ryk"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" /></a><br>
-    <a href="https://instagram.com/tsar._.ik?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-  badge&logo=instagram&logoColor=B4068E" /></a><br>
+    <a href="https://instagram.com/tsar._.ik"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" /></a><br>
     <a href="mailto:tsaryk2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=FF0000" /></a>
   </div>
 </div>
