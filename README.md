@@ -2,7 +2,7 @@
 <code>👷 Speciality: Web-developer / Software engineer </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>📋 [Projects](PROJECTS.md)</code>
-<code>🧑‍💻 Languages: JavaScript, Java, HTML, CSS</code>
+<code>🧑‍💻 Languages: JavaScript (ReactJS, NextJS), HTML, CSS, Java</code>
 
 
 <div>
