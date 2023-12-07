@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IM-11</code>
+<code>🎓 Student: Kyiv Polytechnic Institute / IM-11</code>
 <code>👷 Speciality: Web-developer / Software engineer </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>📋 [Projects](PROJECTS.md)</code>
