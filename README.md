@@ -26,7 +26,7 @@
 
 ---
 ### ⚙️ Tech stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,mongodb,react,bootstrap&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,postgres,mongodb,react,bootstrap&perline=8)](https://skillicons.dev)
 
 ---
 ### 💻 Enviroment:
